@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/clang/8.0.0/lib/linux/libclang_rt.xray-basic-x86_64.a  CMakeFiles/RTXrayBASIC.x86_64.dir/xray_basic_flags.cc.o CMakeFiles/RTXrayBASIC.x86_64.dir/xray_basic_logging.cc.o
+/usr/bin/ranlib ../../../../lib/clang/8.0.0/lib/linux/libclang_rt.xray-basic-x86_64.a

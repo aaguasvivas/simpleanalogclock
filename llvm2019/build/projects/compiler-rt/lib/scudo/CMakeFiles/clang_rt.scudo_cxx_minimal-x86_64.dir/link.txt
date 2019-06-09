@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/clang/8.0.0/lib/linux/libclang_rt.scudo_cxx_minimal-x86_64.a  CMakeFiles/clang_rt.scudo_cxx_minimal-x86_64.dir/scudo_new_delete.cpp.o
+/usr/bin/ranlib ../../../../lib/clang/8.0.0/lib/linux/libclang_rt.scudo_cxx_minimal-x86_64.a
