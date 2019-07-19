@@ -1,2 +1,0 @@
-/usr/bin/ar qc ../../../../lib/clang/8.0.0/lib/linux/libclang_rt.xray-profiling-x86_64.a  CMakeFiles/RTXrayPROFILING.x86_64.dir/xray_profile_collector.cc.o CMakeFiles/RTXrayPROFILING.x86_64.dir/xray_profiling.cc.o CMakeFiles/RTXrayPROFILING.x86_64.dir/xray_profiling_flags.cc.o
-/usr/bin/ranlib ../../../../lib/clang/8.0.0/lib/linux/libclang_rt.xray-profiling-x86_64.a
